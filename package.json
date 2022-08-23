@@ -1,0 +1,22 @@
+{
+  "name": "gitpod1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelamuller/gitpod1.git"
+  },
+  "author": "isa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelamuller/gitpod1/issues"
+  },
+  "homepage": "https://github.com/isabelamuller/gitpod1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
