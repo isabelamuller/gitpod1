@@ -2,7 +2,7 @@ POST https://3000-isabelamuller-gitpod1-tr79usffedb.ws-us63.gitpod.io/transacoes
 Content-Type: "application/json"
 
 {
-    "valor: 20"
+    "valor": 20
 }
 ###
 
